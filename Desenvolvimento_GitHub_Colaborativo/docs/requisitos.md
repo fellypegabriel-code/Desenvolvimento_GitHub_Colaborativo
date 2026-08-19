@@ -2,7 +2,7 @@
 
 ## Requisitos Funcionais (RF)
 * [RF01] O sistema deve permitir o cadastro de novas tarefas através de um formulário.
-* [RF02] O sistema deve exibir a lista de tarefas cadastradas na tela.
+* [RF02] O sistema deve exibir a lista de tarefas todas cadastradas na tela.
 * [RF03] O sistema deve permitir que o usuário marque uma tarefa como concluída.
 * [RF04] O sistema deve exibir uma mensagem indicativa quando não houver tarefas cadastradas.
 
